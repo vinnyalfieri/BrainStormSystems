@@ -1,0 +1,10 @@
+C:\Users\Justin\documents\visual studio 2010\Projects\StudentSystems\StudentSystems\bin\StudentSystems.dll
+C:\Users\Justin\documents\visual studio 2010\Projects\StudentSystems\StudentSystems\bin\StudentSystems.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\StudentSystems\StudentSystems\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\documents\visual studio 2010\Projects\StudentSystems\StudentSystems\obj\Debug\StudentSystems.dll
+C:\Users\Justin\documents\visual studio 2010\Projects\StudentSystems\StudentSystems\obj\Debug\StudentSystems.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\BrainStormSystems\BrainStormSystems\bin\StudentSystems.dll
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\BrainStormSystems\BrainStormSystems\bin\StudentSystems.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\BrainStormSystems\BrainStormSystems\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\BrainStormSystems\BrainStormSystems\obj\Debug\StudentSystems.dll
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\BrainStormSystems\BrainStormSystems\obj\Debug\StudentSystems.pdb
